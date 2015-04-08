@@ -212,12 +212,12 @@ select {
 .header h1.logo a {
   height: 80px;
   color: #fff;
-  padding: 23px 30px;
+  padding: 10px 26px;
   display: inline-block;
   text-align: center;
   line-height: 1.4;
   min-width: 165px;
-  height: 58px;
+  /*height: 58px;*/
   background: #f2f2f2;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-right-radius: 4px;
@@ -254,12 +254,12 @@ select {
   top: -7px;
 }
 .header h1.logo .logo-icon {
-  background: url('../images/background/logo.png') no-repeat center center;
-  width: 130px;
-  height: 30px;
+  background: url('../images/worksurge_logo_cyan-01.png') no-repeat center center;
+  width: 148px;
+  height: 60px;
   background-size: contain;
   display: inline-block;
-  margin-right: 10px;
+  /*margin-right: 10px;*/
 }
 .header .main-nav {
   margin-top: 15px;
@@ -3595,7 +3595,7 @@ p.collapse-description .fa{
   }
   .headline-bg + .section,
   .bg-slider-wrapper + .section {
-    padding-top: 45px;
+    padding-top: 30px;
   }
   .pricing .intro {
     margin-bottom: 45px;
@@ -3818,7 +3818,7 @@ p.collapse-description .fa{
   }
   .promo {
     height: 420px;
-    padding-top: 55px;
+    padding-top: 40px;
   }
   .promo.section .intro {
     margin-bottom: 30px;
@@ -3908,7 +3908,7 @@ p.collapse-description .fa{
   }
   .promo {
     height: 620px;
-    padding-top: 120px;
+    padding-top: 90px;
   }
   .promo.section .intro {
     margin-bottom: 45px;
