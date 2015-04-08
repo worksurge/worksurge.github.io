@@ -11,9 +11,11 @@ $(document).ready(function() {
          
          if ($(window).scrollTop() > 0) {
              $('#header').addClass('navbar-fixed-top');
+             $('#header-correction').addClass('extra-eighty');
          }
          else {
              $('#header').removeClass('navbar-fixed-top');
+             $('#header-correction').removeClass('extra-eighty');
              
          }
     });
