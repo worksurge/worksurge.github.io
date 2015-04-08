@@ -496,7 +496,7 @@ select {
   padding-top: 120px;
   position: relative;
   color: #fff;
-  margin-bottom: 80px;
+  /*margin-bottom: 80px;*/
   height: 620px;
   z-index: 10;
 }
@@ -1111,7 +1111,8 @@ select {
   color: #4ba9df;
 }
 .nav-tabs > li.last {
-  border-right: 1px solid #eeeeee;
+  padding-right: 5px;
+  /*border-right: 0px solid #f6f6f6;*/
 }
 /* ======= Steps ======= */
 .steps {
