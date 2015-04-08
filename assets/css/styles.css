@@ -405,7 +405,7 @@ select {
   top: 0;
   left: 0;
   height: 680px;
-  background: #373737;
+  background: #253340;
 }
 .bg-slider-wrapper .flexslider {
   margin: 0;
@@ -3889,7 +3889,7 @@ p.collapse-description .fa{
     background-clip: padding-box;
     color: #4ba9df;
     background: #fff;
-    padding-top: 23px;
+    padding-top: 10px;
   }
   .main-nav {
     float: right !important;
