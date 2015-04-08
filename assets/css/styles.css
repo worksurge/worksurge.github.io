@@ -542,7 +542,7 @@ select {
 }
 /* ======= sections-wrapper ======= */
 .sections-wrapper {
-  background: #fff;
+  background: #f7f7f7;
   z-index: 20;
   position: relative;
 }
@@ -965,6 +965,7 @@ select {
 }
 .features-tabbed .tab-content {
   padding: 60px 30px;
+  background-color: #fff;
 }
 .features-tabbed .tab-content .title {
   font-size: 16px;
