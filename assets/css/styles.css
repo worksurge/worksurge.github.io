@@ -884,6 +884,27 @@ select {
   font-size: 18px;
   margin-bottom: 15px;
 }
+
+/* ======= pricing-section ======= */
+.pricing-section {
+  background: #8e9598;
+  min-height: 420px;
+  color: #fff;
+  padding-top: 80px;
+  border: none;
+}
+.pricing-section .intro {
+  color: #fff;
+  margin-bottom: 20px;
+}
+.pricing-section .paragraph {
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+
+
 /* ======= cta-section ======= */
 .cta-section {
   background: #253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;
